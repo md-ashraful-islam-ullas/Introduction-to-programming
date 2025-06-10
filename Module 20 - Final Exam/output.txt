@@ -1,0 +1,2 @@
+Main Function x : 10
+My_print Function x: 10
